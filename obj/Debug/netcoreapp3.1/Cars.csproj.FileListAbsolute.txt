@@ -1,0 +1,13 @@
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\lifan\Desktop\C#\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\lifan\Desktop\C#\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
